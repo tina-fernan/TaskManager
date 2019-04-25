@@ -1,0 +1,22 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TaskManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tina-fernan/TaskManager.git"
+  },
+  "author": "Tina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tina-fernan/TaskManager/issues"
+  },
+  "homepage": "https://github.com/tina-fernan/TaskManager#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
