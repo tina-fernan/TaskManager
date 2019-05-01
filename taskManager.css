@@ -1,0 +1,25 @@
+.list-group-item span {
+  margin-left: 5px;
+}
+h1 {
+
+  color: blue;
+}
+
+div.form {
+  display: none;
+  background-color: whitesmoke;
+  color: blue;
+  
+}
+
+h2 {
+  margin-top: 40px;
+  color: rgb(71, 71, 82);
+  font-family: lobster;
+  
+}
+
+.add-task {
+  margin-top: 20px;
+}
